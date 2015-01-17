@@ -1,3 +1,5 @@
+### Merged into [pkg4go/pkgs](https://github.com/pkg4go/pkgs)
+
 [![GoDoc][doc-img]][doc-url]
 [![License][license-img]][license-url]
 
